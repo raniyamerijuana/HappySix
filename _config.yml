@@ -42,7 +42,7 @@ defaults:
     image: true
 
 gallery:  
-  - name: "path"
+  - name: "background_01.jpg"
     message: "message1"
-  - name: "path"
+  - name: "background_02.jpg"
     message: "message2"
